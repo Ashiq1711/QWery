@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@200;300;400;500;600&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+.container{
+    max-width: 1320px;
+    margin: 0 auto;
+}
+/* ===============nav css start================= */
+.navbar_right{
+    margin-right: 60px;
+    font-size: 18px;
+    font-weight: 600;
+   
+}
+.navbar_list_link{
+    color: #FFFF;
+}
+.navbar_list_link:hover{
+    color: black;
+    transition: .4s;
+}
+.active{
+    color: black;
+}
+nav{
+    position: absolute !important;
+    width: 100%;
+}
+/* ===================nav css end=================== */
+/* ===================banner css start=================== */
+#banner{
+    background: url(../images/bgimg.jpg) no-repeat center;
+   background-size: cover;
+   
+}
+.banner_subtitle{
+    font-size: 18px;
+    color: rgba(255, 193, 120, 1);
+    font-weight: 700;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    
+}
+.banner_discover{
+    font-size: 96px;
+    font-weight: 700;
+    color: #FFFF;
+    line-height: 100px;
+    margin-top: 38px;
+}
+.banner_wonderful
+{
+    font-size: 88px;
+    font-weight: 400;
+    color: #FFFF;
+    line-height: 100px;
+}
+.banner_text{
+    padding: 462px 0;
+}
+/* ===================banner css end=================== */
+/* ===================holyday css start=================== */
+#holyday{
+
+}
+.holyday_main{
+  padding: 286px  0;
+ 
+}
+.holyday_img{
+
+}
+.holyday_east{
+    text-transform: uppercase;
+    color: rgba(251, 215, 132, 1);
+    letter-spacing: 6px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.holyday_enjoy{
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    font-weight: 700;
+    height: 261px;
+    width: 496px;
+    margin-top: 13px;
+
+}
+.holyday_para{
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    height: 160px;
+    width: 587px;    
+    margin-top: 13px;
+}
+.holyday_read_more{
+    text-decoration: none;
+    display: inline-block;
+    color: rgba(251, 215, 132, 1);
+    margin-top: 66px;
+}
+.holyday_read_more2
+{
+    text-decoration: none;
+    display: inline-block;
+    color: rgba(251, 215, 132, 1);
+    margin-top: 66px;
+}
+.holyday_text{
+    margin-left: 23px;
+    margin-top: 45px;
+}
+/* ===================holyday css end=================== */
+/* ===================Bromo css start=================== */
+#bromo{
+    background: url(../images/img2.jpg) no-repeat center;
+}
+.bromo_text{
+    text-align: center;
+    padding-top: 560px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 32px;
+  
+}
+.bromo_h5{
+    color: rgba(251, 215, 132, 1);
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+
+}
+.bromo_steady{
+ 
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+
+}
+.bromo_pera{
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    line-height: 32px;
+    text-transform: uppercase;
+
+   
+ 
+}
+.bromo_button{
+    text-decoration: none;
+    color: rgba(251, 215, 132, 1);
+    font-weight: 700;
+
+}
+/* ===================Bromo css end=================== */
+/* <!-- =================CULTURE START=================== --> */
+#culture{
+    padding-top: 295px;
+    padding-bottom: 190px;
+}
+.culture_text{
+    width: 663px;
+    height: 261px;
+    margin-top: 152px;
+}
+.culture_indonesia{
+    color: rgba(251, 215, 132, 1);
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+
+}
+.culture_our{
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    width: 663px;
+    height: 261px;
+
+}
+.culture_pera{
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    line-height: 32px;
+    text-transform: uppercase;
+    width: 566px;
+    height: 96px;
+
+}
+/* <!-- =================CULTURE END===================== --> */
+/* <!-- =================VACATION START===================== --> */
+#vacation{
+    padding-bottom: 158px;
+}
+.logo_qwery{
+    color: #FFFF;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 1%;
+}
+.vacation_day{
+    color: #FFFF;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    text-transform: capitalize;
+    width: 405px;
+    height: 98px;
+}
+.term_condition{
+    color: #FFFF;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: -0.2px;
+    text-transform: capitalize;
+
+}
+.vacation_icon_fb{
+    color: #FFFF;
+}
+.vacation_icon{
+     color: #FFFF;
+     padding-left: 30px;
+}
+.vacation_button{
+    padding: 18px 67px;
+    color: black;
+    background-color: rgba(255, 163, 67, 1);
+    border: none;
+    border-radius: 10px;
+    margin-right: 0;
+    font-size: 17px;
+    font-weight: 700;
+}
+.flex_vacation{
+    display: flex;
+    justify-content: end;
+}
+.vacation_service{
+    width: 141px;
+    height: 170px;
+    margin-top: 81px;
+}
+.vacation_h5{
+    color: rgba(255, 209, 160, 1);
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.23px;
+}
+.vacation_explore{
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: -0.23px;
+    color: #FFFF;
+    
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.vacation_p{
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: -0.23px;
+    color: #FFFF;
+
+
+}
+.copy_right{
+    text-align: center;
+    color: #FFFF;
+}
+/* <!-- =================VACATION END===================== --> */

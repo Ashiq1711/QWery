@@ -1,0 +1,186 @@
+@media (min-width:320px) and (max-width:575px) {
+    .navbar-toggler{
+        background-color: #f0efee;;
+    }
+   .nav_changes{
+    background-color: #896b54;
+    border-radius: 12px;
+    opacity: .6;
+   }
+    .navbar-nav
+        {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-left: 50px;
+        }
+        .navbar_right {
+            font-size: 15px;
+        }
+        .banner_text {
+            padding: 247px 0 0 0;
+            text-align: center;
+        }
+       .banner_discover {
+        font-size: 50px;
+       line-height: 15px;
+       margin-top: 40px;
+       padding-left: 40px;
+       
+
+       }
+       .banner_subtitle {
+        font-size: 13px;
+        letter-spacing: 4px;
+       }
+       .banner_wonderful {
+        font-size: 30px;
+        
+    }.holyday_main {
+        padding: 0px  0;
+    }
+    .holyday_img {
+        width: 100%;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+    .holyday_text {
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+    .holyday_east {
+      
+        text-align: center;
+    }
+    .holyday_enjoy {
+        font-size: 35px;
+        height: 122px;
+        width: auto;
+        margin-top: 13px;
+        text-align: center;
+    }
+    .holyday_para {
+        
+        font-size: 12px;
+        line-height:20px;
+        width: auto;
+        margin-top: 13px;
+        text-align: center;
+    }
+    .holyday_read_more {
+        text-decoration: none;
+        display: inline-block;
+        color: rgba(251, 215, 132, 1);
+        margin-top: 0;
+    }
+    #bromo {
+        margin-top: 40px;
+    }
+    .bromo_text {
+        text-align: center;
+        padding-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+        padding: 16px;
+    }.bromo_steady {
+        font-size: 26px;
+      
+    }
+    .bromo_pera {
+        font-size: 12px;
+        margin: 0 auto;
+        line-height: 22px;
+    }
+    .bromo_button {
+       
+        padding: 20px 0;
+        display: inline-block;
+    }
+
+    .culture_text {
+        width: auto;
+        text-align: center;
+        height: 340px;
+        
+      
+    }
+    .culture_our {
+        font-size: 25px;
+        font-weight: 700;
+        color: white;
+        text-transform: uppercase;
+        width: auto;
+        text-align: center;
+    }
+    .culture_pera {
+        font-size: 12px;
+        font-weight: 700;
+        color: white;
+        line-height: 30px;
+        text-transform: uppercase;
+        width: auto;
+        height: 0;
+        margin-top: -170px;
+    }
+    .holyday_read_more2 {
+        text-decoration: none;
+        display: inline-block;
+        color: rgba(251, 215, 132, 1);
+        margin-top: 140px;
+    }
+    .image3{
+        width: 100%;
+        border-radius: 10px;
+    }
+    #culture {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    #vacation {
+        margin-top: 80px;
+    }
+    .logo_qwery {
+        font-size: 30px;
+        text-align: center;
+        color: #FFA343;
+    }
+    #vacation {
+        padding-bottom: 0;
+    }
+    .vacation_day {
+        font-size: 34px;
+        margin: 0 auto;
+        text-align: center;
+        width: auto;
+        height: 155px;
+    }
+    .vacation_explore {
+    
+        margin-right: 12px;
+       
+    }
+    .vacation_button {
+        padding: 0 5px;
+       
+        margin-right: 0;
+        font-size: 14px;
+    }
+    .term_condition {
+        text-align: center;
+    }
+    .icons_3{
+        text-align: center;
+    }
+    .flex_vacation {
+        margin-top: 60px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .vacation_service {
+        width: auto;
+        height: 170px;
+        margin-top: 56px;
+        text-align: center;
+    }
+}
